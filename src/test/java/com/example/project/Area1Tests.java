@@ -30,12 +30,12 @@ class Area1Tests {
 
 	@Test
 	public void Area1Test2() {
-		//fail("Real Defect");
+		fail("Real Defect");
 	}
 
 	@Test
 	public void Area1Test3() {
-		//fail("Real Defect");
+		fail("Real Defect");
 	}
 
 	//@RepeatedTest(value = 2, name = "{displayName}")
@@ -49,6 +49,6 @@ class Area1Tests {
 
 	@Test
 	public void Area1Test5() {
-		//fail("Real Defect");
+		fail("Real Defect");
 	}
 }

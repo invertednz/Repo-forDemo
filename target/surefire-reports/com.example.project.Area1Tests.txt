@@ -1,4 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: com.example.project.Area1Tests
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in com.example.project.Area1Tests
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in com.example.project.Area1Tests
+Area1Test2  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Real Defect
+	at com.example.project.Area1Tests.Area1Test2(Area1Tests.java:33)
+
+Area1Test3  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Real Defect
+	at com.example.project.Area1Tests.Area1Test3(Area1Tests.java:38)
+
+Area1Test5  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Real Defect
+	at com.example.project.Area1Tests.Area1Test5(Area1Tests.java:51)
+
