@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.project.Area14Tests
 -------------------------------------------------------------------------------
-Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.042 s - in com.example.project.Area14Tests
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.015 s - in com.example.project.Area14Tests

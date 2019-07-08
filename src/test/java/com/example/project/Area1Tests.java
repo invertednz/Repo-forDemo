@@ -25,30 +25,29 @@ class Area1Tests {
 
 	@Test
 	public void Area1Test1() {
-		//fail("Phone turned off");
+		fail("Phone turned off");
 	}
 
 	@Test
 	public void Area1Test2() {
-		fail("Real Defect");
+		//fail("Real Defect");
 	}
 
 	@Test
 	public void Area1Test3() {
-		fail("Real Defect");
+		//fail("Real Defect");
 	}
 
-	//@RepeatedTest(value = 2, name = "{displayName}")
-	@Test
+	@RepeatedTest(value = 2, name = "{displayName}")
 	public void Area1Test4() {
 		if(i==0){
 			i++;
-			//fail("Phone turned off");
+			fail("Phone turned off");
 		}
 	}
 
 	@Test
 	public void Area1Test5() {
-		fail("Real Defect");
+		//fail("Real Defect");
 	}
 }

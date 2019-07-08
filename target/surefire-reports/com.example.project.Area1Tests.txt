@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: com.example.project.Area1Tests
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in com.example.project.Area1Tests
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in com.example.project.Area1Tests
+Area1Test1  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Phone turned off
+	at com.example.project.Area1Tests.Area1Test1(Area1Tests.java:28)
+
+Area1Test4[1]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Phone turned off
+	at com.example.project.Area1Tests.Area1Test4(Area1Tests.java:45)
+
