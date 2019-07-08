@@ -1,0 +1,177 @@
+# Created at 2019-06-14T17:13:54.964
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-06-14T17:13:56.716
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[59],null,null,null
+
+
+# Created at 2019-06-14T17:13:56.728
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[60],null,null,null
+
+
+# Created at 2019-06-14T17:13:58.235
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[60],null,null,null
+
+
+# Created at 2019-06-14T17:13:58.247
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[61],null,null,null
+
+
+# Created at 2019-06-14T17:13:59.757
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[61],null,null,null
+
+
+# Created at 2019-06-14T17:13:59.762
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[62],null,null,null
+
+
+# Created at 2019-06-14T17:14:01.267
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[62],null,null,null
+
+
+# Created at 2019-06-14T17:14:01.279
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[63],null,null,null
+
+
+# Created at 2019-06-14T17:14:02.787
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[63],null,null,null
+
+
+# Created at 2019-06-14T17:14:02.795
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[64],null,null,null
+
+
+# Created at 2019-06-14T17:14:04.302
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[64],null,null,null
+
+
+# Created at 2019-06-14T17:14:04.312
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[65],null,null,null
+
+
+# Created at 2019-06-14T17:14:05.817
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[65],null,null,null
+
+
+# Created at 2019-06-14T17:14:05.824
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[66],null,null,null
+
+
+# Created at 2019-06-14T17:14:07.331
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[66],null,null,null
+
+
+# Created at 2019-06-14T17:14:07.340
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[67],null,null,null
+
+
+# Created at 2019-06-14T17:14:08.846
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[67],null,null,null
+
+
+# Created at 2019-06-14T17:14:08.855
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[68],null,null,null
+
+
+# Created at 2019-06-14T17:14:10.363
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[68],null,null,null
+
+
+# Created at 2019-06-14T17:14:10.371
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[69],null,null,null
+
+
+# Created at 2019-06-14T17:14:11.880
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[69],null,null,null
+
+
+# Created at 2019-06-14T17:14:11.889
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[70],null,null,null
+
+
+# Created at 2019-06-14T17:14:13.396
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[70],null,null,null
+
+
+# Created at 2019-06-14T17:14:13.404
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[71],null,null,null
+
+
+# Created at 2019-06-14T17:14:14.911
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[71],null,null,null
+
+
+# Created at 2019-06-14T17:14:14.918
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[72],null,null,null
+
+
+# Created at 2019-06-14T17:14:16.422
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[72],null,null,null
+
+
+# Created at 2019-06-14T17:14:16.430
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[73],null,null,null
+
+
+# Created at 2019-06-14T17:14:17.936
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[73],null,null,null
+
+
+# Created at 2019-06-14T17:14:17.942
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[74],null,null,null
+
+
+# Created at 2019-06-14T17:14:19.447
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[74],null,null,null
+
+
+# Created at 2019-06-14T17:14:19.454
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[75],null,null,null
+
+
+# Created at 2019-06-14T17:14:20.959
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[75],null,null,null
+
+
+# Created at 2019-06-14T17:14:20.965
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[76],null,null,null
+
+
+# Created at 2019-06-14T17:14:22.472
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[76],null,null,null
+
+
+# Created at 2019-06-14T17:14:22.481
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[77],null,null,null
+
+
+# Created at 2019-06-14T17:14:23.992
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[77],null,null,null
+
+
+# Created at 2019-06-14T17:14:23.998
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[78],null,null,null
+
+
+# Created at 2019-06-14T17:14:25.505
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[78],null,null,null
+
+
+# Created at 2019-06-14T17:14:25.511
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[79],null,null,null
+
+
+# Created at 2019-06-14T17:14:27.019
+Unexpected IOException: 6,1,com.example.project.ExampleTests,Area2Test6[79],null,null,null
+
+
+# Created at 2019-06-14T17:14:27.026
+Unexpected IOException: 5,1,com.example.project.ExampleTests,Area2Test6[80],null,null,null
+
+
